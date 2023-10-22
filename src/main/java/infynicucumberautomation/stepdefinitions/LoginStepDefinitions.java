@@ -15,7 +15,7 @@ public class LoginStepDefinitions extends LoginPage {
 
 	@Before
 	public void launchBrowser() {
-		launchBrowser("Edge");
+		launchBrowser("Chrome");
 	}
 	
 	@Given("User is in login page") public void user_is_in_login_page() throws
