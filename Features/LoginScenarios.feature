@@ -20,6 +20,6 @@ Examples:
 
 |EmailId|Password|
 |prashanthi@gmail.com|Test@123|
-|test4562@gmail.com|Test@123|
+|test4562@gmail.com|Test@1234|
 |test8765@gmail.com|Test@123|
       
